@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">final_801129682</string>
+    <string name="tv_title">Title</string>
+    <string name="btn_addPlace">Add Place</string>
+    <string name="btn_addDate">Add Date</string>
+    <string name="btn_addTime">Add Time</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_go">GO</string>
+</resources>
